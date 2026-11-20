@@ -16,7 +16,7 @@ Discord desktop wrapper packaged as an AppImage (Experimental, unofficial).
 2. Make it executable: `chmod +x Discord-1.0.0.AppImage`
 3. Run it: `./Discord-1.0.0.AppImage`
 
-## Technology
+## Behind The Scenes
 
 - Electron 29.4.6
 - electron-builder 25.1.8
