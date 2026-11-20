@@ -4,8 +4,8 @@ Discord desktop wrapper packaged as an AppImage (Experimental, unofficial).
 
 ## ⚠️ Important notices
 
-- This project was **automated by AI** (fx) and is **experimental**.
-- This is **not an official Discord product**. We have no affiliation with Discord Inc.
+- This project was **automated by AI** and is **experimental**.
+- This is **not an official Discord product**. I have no affiliation with Discord Inc.
 - Bugs and unexpected behavior may occur.
 - **Passkeys do not work** in this build (limitation of Electron/WebView with Discord's authentication system).
 - Despite this, the application is **usable** for general chat.
